@@ -1,6 +1,8 @@
 # Potluck
 
 Welcome to Potluck, a platform to connect home chefs with customers.
+#### See Demo and Screenshots
+[Here](https://github.com/brendon-ng/16/wiki)
 
 ## Building and Deployment
 [![Build Status](https://travis-ci.com/cs130-w21/16.svg?branch=master)](https://travis-ci.com/cs130-w21/16)
