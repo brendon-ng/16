@@ -2,7 +2,20 @@
 
 Welcome to Potluck, a platform to connect home chefs with customers.
 ## See Demo and Screenshots
-[HERE](https://github.com/brendon-ng/16/wiki)
+[LINK HERE](https://github.com/brendon-ng/16/wiki) for demo, screenshots, and detailed overview of the app
+#### Screenshot Samples
+<img src="https://github.com/brendon-ng/Potluck/assets/40370559/88023dea-b7bd-4924-b061-c9cdfe8d4a11" height=400>  
+
+Home Page (Left) and Dish Page (Center, Right)  
+
+<img src="https://github.com/brendon-ng/Potluck/assets/40370559/f7194006-1046-4378-96ca-970f8e53ba0c" height=400>  
+
+Chef's Storefront Page  
+
+<img src="https://github.com/brendon-ng/Potluck/assets/40370559/daf6a32d-1ef4-4c85-a035-d0ec9f836535" height=400>  
+
+Search Page (Left), Map View (Center), Leave a Review Page (Right)  
+
 
 ## Building and Deployment
 [![Build Status](https://travis-ci.com/cs130-w21/16.svg?branch=master)](https://travis-ci.com/cs130-w21/16)
